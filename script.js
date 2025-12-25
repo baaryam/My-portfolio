@@ -1,4 +1,4 @@
-// Dark Mode Toggle
+// -----------------Dark Mode Toggle------------------
 const toggleBtn = document.getElementById("darkToggle");
 const body = document.body;
 
